@@ -1,0 +1,15 @@
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\bin\Debug\net6.0\Locadora.exe
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\bin\Debug\net6.0\Locadora.deps.json
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\bin\Debug\net6.0\Locadora.runtimeconfig.json
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\bin\Debug\net6.0\Locadora.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\bin\Debug\net6.0\Locadora.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.csproj.AssemblyReference.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.AssemblyInfoInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.AssemblyInfo.cs
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.csproj.CoreCompileInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\refint\Locadora.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\Locadora.genruntimeconfig.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoLocadora\Locadora\Locadora\obj\Debug\net6.0\ref\Locadora.dll
